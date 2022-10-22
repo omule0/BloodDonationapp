@@ -35,6 +35,16 @@ dependencies:
   uuid: ^3.0.6
   url_launcher: ^6.1.6
   geolocator: ^5.0.1
+  flutter_speed_dial: ^6.0.0
+  day_night_time_picker:
+  dialogs: ^0.0.7
+  syncfusion_flutter_charts: ^20.3.49
+  charts_flutter: ^0.12.0
+  google_fonts: ^3.0.1
+  flutter_svg: ^1.1.5
+  fl_chart: ^0.55.2
+  carousel_slider: ^4.1.1
+  editable: ^2.0.0
 
   #lit_firebase_auth: ^0.3.0
 
@@ -58,6 +68,8 @@ flutter:
   assets:
     - assets/
     - assets/img/
+    - assets/images/
+    - assets/icons/
 
 
   # An image asset can refer to one or more resolution-specific "variants", see
