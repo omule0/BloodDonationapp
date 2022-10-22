@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "803428269632",
+    "project_id": "retrieve-data-5d869",
+    "storage_bucket": "retrieve-data-5d869.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803428269632:android:a7cbe6a2ae84b58c8669a5",
+        "android_client_info": {
+          "package_name": "com.example.retrieve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803428269632-skm0dno116fc9sjgjmeqh07kvnst906d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFPowkjBFZ-RzrXqWYIJ6uBr3lZrVP-Vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803428269632-skm0dno116fc9sjgjmeqh07kvnst906d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "803428269632-7ukbg0bh89sgus774eb1jvu95611fg6e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.retrieve"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
